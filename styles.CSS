@@ -1,0 +1,17 @@
+/* Body styling for background */
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif; /* Font for the body */
+    color:hsl(87, 29%, 24%);
+    margin: auto;
+    font-size: xx-large;
+}
+
+/* h1 styling */
+h1 {
+    color: #2c3e50; /* Dark blue color for the text */
+    text-align: center; /* Center the text */
+    padding: 20px; /* Padding around the text */
+    font-size: 3em; /* Large font size */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
